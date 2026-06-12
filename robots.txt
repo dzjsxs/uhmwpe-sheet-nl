@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uhmwpe-sheet-nl.pages.dev/sitemap.xml
